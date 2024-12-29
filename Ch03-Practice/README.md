@@ -307,11 +307,17 @@ For each research question:
 4. Real Python Articles
 5. Python Design Patterns Guide
 
+## License and Usage Rights
+Copyright © 2024 Maktabkhooneh. All rights reserved.
+This educational material is the exclusive property of Maktabkhooneh and instructor Shahin ABDI. All rights to this content are reserved and protected under applicable copyright and intellectual property laws.
+Usage Restrictions:
 
----
-
-© 2024 Maktabkhooneh. All rights reserved.
+This material is exclusively for enrolled students of the Maktabkhooneh Python course.
+Sharing, distributing, or reproducing this content outside of the enrolled student body is strictly prohibited.
+No part of this material may be copied, stored, transmitted, or reproduced in any form or by any means without prior written permission from Maktabkhooneh and the instructor.
 
 Instructor: Shahin ABDI
 
-For enrolled students of the Maktabkhooneh Python course only.
+Maktabkhooneh Python Course
+
+Contact: www.maktabkhooneh.org
